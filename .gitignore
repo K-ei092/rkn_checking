@@ -8,5 +8,5 @@
 /.idea/
 /.git/
 /__pycache__/
-rkn_domains.txt
-intersection.txt
+*.txt
+*.csv

@@ -22,6 +22,8 @@ def main():
     ui.set_frame_2()
     ui.set_frame_3()
     ui.set_frame_4()
+    ui.set_frame_5()
+    ui.set_frame_6()
     ui.mainloop()
 
 
